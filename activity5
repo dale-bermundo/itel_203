@@ -1,0 +1,62 @@
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Webpage</title>
+  <link rel="stylesheet" href="style.css">
+
+
+</head>
+<body>
+  
+<div class="container">
+
+  <div class="navbar">
+    <img src="image/logo.png" class="logo"> 
+    <nav>
+        <ul> 
+            <li><a href="">HOME</a></li>
+            <li><a href="">REGION</a></li>
+            <li><a href="">ABOUT</a></li>
+        </ul>
+    </nav>
+    <img src="image/menu.png" class="menu-icon"> 
+  </div>
+<div class="row">
+    <div class="col">
+        <h1>Perfume</h1>
+        <p>Perfume is a mixture of fragrant essential oils or aroma compounds, fixatives and solvents, usually in liquid form, used to give the human body, animals, food, objects, and living-spaces an agreeable scent.</p>
+        <button>Explore</button>
+    </div>
+    <div class="col">
+<div class="card card1">
+    <h2>Miss Dior</h2>
+    <p>₱1500</p> 
+        &nbsp
+    <p>Elegant and spirited young woman in love</p>
+
+    </div>
+    <div class="card card2">
+        <h2>COCO</h2>
+        <p>₱2500</p> 
+        &nbsp
+        <p>Chanel's first perfume is arguably one of the most iconic fragrances ever created.</p>
+        </div>
+        <div class="card card3">
+            <h2>Miss Dior Pink</h2>
+            <p>₱2095</p> 
+                &nbsp
+            <p>The new Miss Dior Eau de Parfum is a colorful floral bouquet, like a "millefiori" alive with notes of Grasse rose, peony, iris and lily-of-the-valley.</p>
+            </div>
+            <div class="card card4">
+                <h2>Miss Dior Orange</h2>
+                <p>₱1500</p> 
+                &nbsp
+                <p>Miss Dior, is the ultimate declaration of everything Dior wanted in a fragrance. It's a celebration of love, femininity, beauty, and happiness.</p>
+              
+              </div>
+</div>
+
+</div>
+
+</body>
+</html>
